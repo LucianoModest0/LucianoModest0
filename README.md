@@ -14,7 +14,7 @@
 
 **a formação encontra-se em pré-lançamento, aguardando o lançamento da sua segunda parte*
 
-### **<p> Atualmente estou revesando meu horário entre duas formações:</p>** 
+### **<p> Atualmente estou revezando meu horário entre duas formações:</p>** 
 <ul>
 <li> Formação Javascript para Back-End</li>
 <li> Formação Engenharia de Software</li>
