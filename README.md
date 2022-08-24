@@ -18,6 +18,7 @@
 <ul>
 <li> Formação Javascript para Back-End</li>
 <li> Formação Engenharia de Software</li>
+<li> Formação Wordpress</li>
 </ul>
 
 ### **<p> Os próximas passos são: </p>**
