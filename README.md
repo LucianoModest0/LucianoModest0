@@ -11,20 +11,19 @@
 <li> Formação Front-End</li>
 <li> Formação Javascript para Front-End*</li>
 <li> Formação Javascript para Back-End</li>
+<li> Formação Typescript</li>
 </ul>
 
 **a formação encontra-se em pré-lançamento, aguardando o lançamento da sua segunda parte*
 
 ### **<p> Atualmente estou revezando meu horário as formações:</p>** 
 <ul>
-<li> Formação Typescript</li>
+<li> Formação React com TypeScripts</li>
 <li> Formação Engenharia de Software</li>
-<li> Formação Wordpress</li>
 </ul>
 
 ### **<p> Os próximas passos são: </p>**
 <ul>
-<li> Formação React com TypeScript</li>
 <li> Formação Next.JS</li>
 </ul>
 
