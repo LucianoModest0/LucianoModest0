@@ -19,6 +19,7 @@
 ### **<p> Atualmente estou revezando meu horário as formações:</p>** 
 <ul>
 <li> Formação React com TypeScripts</li>
+<li> Modelagem de dados</li>
 <li> Formação Engenharia de Software</li>
 </ul>
 
